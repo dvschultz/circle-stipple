@@ -1,2 +1,4 @@
 # circle-stipple
-Generate stipple style images
+Generate stipple style images.
+
+Built in Processing.
